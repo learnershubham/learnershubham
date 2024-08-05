@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @learnershubham
-- 👀 I’m interested in ... R-programming
-- 🌱 I’m currently learning ... R-programming for Data Analytics
+- 👀 I’m interested in ... Projects on Python
+- 🌱 I’m currently learning ... More on Data
 - 💞️ I’m looking to collaborate on ... Data Analytics projects
 - 📫 How to reach me ... shubhamtwr2@gmail.com
 
